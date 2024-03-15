@@ -7,7 +7,7 @@ Bioinformatics is the field that combines biology, computer science, and technol
 -Yusuf Idris modibbo
 -Kyauta daniel
 -Auwal Yakubu Aliyu
--Abubakar Isah Baba
+-Fatima Muhammad tilde
 -Aishatu Abdullahi
 -Auwal Adams
 -Rukayya Saleh Abdullahi
