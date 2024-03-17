@@ -11,25 +11,7 @@ Bioinformatics is the field that combines biology, computer science, and technol
 -Aishatu Abdullahi
 -Auwal Adams
 -Rukayya Saleh Abdullahi
--Hassan Solomon
-![Group A Picture]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Hassan solomon
 # programming language 
 -c programming language
 # coding
