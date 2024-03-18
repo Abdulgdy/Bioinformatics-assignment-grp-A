@@ -1,4 +1,33 @@
-# Bioinformatics 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>User Information</title>
+  <style>
+    .info-container {
+      text-align: center; /* Center align the content */
+      margin: 20px; /* Add some margin for better presentation */
+    }
+
+    .info-label {
+      font-weight: bold; /* Make labels bold for distinction */
+    }
+  </style>
+</head>
+<body>
+  <div class="info-container">
+    <p class="info-label">Name:</p>
+    <p>RUKAYYA SALEH ABDULLAHI</p>
+
+    <p class="info-label">Email:</p>
+    <p>salehrukayya16@gmail.com</p>
+
+    <p class="info-label">Area of Interest:</p>
+    <p>protein coding Gene</p>
+  </div>
+</body>
+</html># Bioinformatics 
 # Introduction to Bioinformatics 
 Bioinformatics is the field that combines biology, computer science, and technology to analyze and interpret biological data. It involves the use of computational tools and algorithms to study and understand biological processes, such as genetic sequences, molecular structures, and pathways. By harnessing the power of technology and data analysis, bioinformatics helps researchers answer complex questions about genetics, evolution, diseases, and drug development. It plays a crucial role in modern biological research and is essential for advancements in fields such as genomics, proteomics, and systems biology.
 # Group A 
