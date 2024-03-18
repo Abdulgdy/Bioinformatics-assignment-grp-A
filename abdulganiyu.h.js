@@ -1,0 +1,1 @@
+const userInfoElement = document.getElementById("user-info");userInfoElement.innerHTML = `  <p>Name: abduganiyu Dallhatu Yusuf</p>  <p>Email: abdulganeayudalhatu@gmail.com</p>  <p>Slack username: abduganeayudalhatu@slack</p>  <p>Area of interest: genome assembly</p>public class UserInfo {  public static void main(String[] args) {

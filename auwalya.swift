@@ -1,0 +1,1 @@
+print("Name: Auwal Yakubu Aliyu")print("Email: Auwalyakubu572@gmail.com")print("Slack Username: auwalyakubu@slack")print("Area of Interest: Epigenomics")
